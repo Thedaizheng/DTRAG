@@ -23,7 +23,7 @@ DTRAG is a novel framework that enhances Retrieval-Augmented Generation (RAG) sy
 
 ## Architecture
 
-![DTRAG 系统架构图](./static/DTRAG Framework.png "系统组件交互示意图")
+![DTRAG 系统架构图](./static/DTRAG.png "系统组件交互示意图")
 
 *Figure 1: Overall system architecture of DTRAG framework*
 
@@ -37,7 +37,7 @@ Figure 1 illustrates the overarching logical architecture of the system, while F
 
 *Figure 3: Storage of the Document Tree.*
 
-![DTRAG 系统架构图](./static/Knowledge Retrieval.png "系统检索流程示意图")
+![DTRAG 系统架构图](./static/KnowledgeRetrieval.png "系统检索流程示意图")
 
 *Figure 4: Knowledge Retrieval in DTRAG Architecture.*
 
