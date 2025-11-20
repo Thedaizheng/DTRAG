@@ -23,7 +23,7 @@ DTRAG is a novel framework that enhances Retrieval-Augmented Generation (RAG) sy
 
 ## Architecture
 
-![DTRAG 系统架构图](./static/DTRAG.png "系统组件交互示意图")
+![DTRAG 系统架构图](./static/DTRAG.png "系统架构示意图")
 
 *Figure 1: Overall system architecture of DTRAG framework*
 
