@@ -23,21 +23,21 @@ DTRAG is a novel framework that enhances Retrieval-Augmented Generation (RAG) sy
 
 ## Architecture
 
-![DTRAG 系统架构图](./static/DTRAG.png "系统架构示意图")
+![fig1](./static/DTRAG.png "系统架构示意图")
 
 *Figure 1: Overall system architecture of DTRAG framework*
 
 Figure 1 illustrates the overarching logical architecture of the system, while Figures 2, 3, and 4 delve into the specifics of its core tree-based retrieval mechanism. The architecture is structured around a layered pipeline, comprising three primary stages: Data Preprocessing, Vector Retrieval, and Intelligent Generation. Central to this design is the Tree-based Retrieval layer, which bridges the other stages by constructing a hierarchical document index and performing multi-path semantic search to ensure the integrity and accuracy of the contextual information passed to the generator.
 
-![DTRAG 系统架构图](./static/Construction.png "系统文档树图")
+![fig2](./static/Construction.png "系统文档树图")
 
 *Figure 2: Construction of the Document Tree.*
 
-![DTRAG 系统架构图](./static/Storage.png "系统数据存储方式图")
+![fig3](./static/Storage.png "系统数据存储方式图")
 
 *Figure 3: Storage of the Document Tree.*
 
-![DTRAG 系统架构图](./static/KnowledgeRetrieval.png "系统检索流程示意图")
+![fig4](./static/KnowledgeRetrieval.png "系统检索流程示意图")
 
 *Figure 4: Knowledge Retrieval in DTRAG Architecture.*
 
