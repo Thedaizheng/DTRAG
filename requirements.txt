@@ -1,0 +1,13 @@
+openai
+gradio
+scikit-learn
+httpx[socks]
+python-dotenv
+pymysql
+pymilvus
+FlagEmbedding
+python-docx
+trulens-eval==0.23.0
+pydantic
+chromadb
+anthropic
